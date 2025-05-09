@@ -2,7 +2,7 @@
 
 
 
-# setup
+# setup in terminal
 ``` node server.js ```
 
 ```npm init -y
